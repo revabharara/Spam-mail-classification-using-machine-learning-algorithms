@@ -75,6 +75,19 @@ The results showed that the random forest algorithm achieved the highest accurac
 ![image](https://user-images.githubusercontent.com/89579327/224524656-18d0d6ec-e41b-4f21-ab53-3e225a14ea02.png)
 
 
+## GUI program
+The Gui application allows the user to enter the content of the mail in the entry field and then using the Random Forest Classifier in the backend the application predicts whether the mail is spam or not.
+
+#### Screenshots of the GUI project:
+
+<img width="676" alt="image" src="https://user-images.githubusercontent.com/89579327/224524813-3ebdba10-59c5-4532-8316-6de4167cdf61.png">
+
+
+#### Output:
+
+<img width="674" alt="image" src="https://user-images.githubusercontent.com/89579327/224524824-935ab661-0548-48a9-ba7a-14fcc4e32950.png">
+
+
 
 ## Credits
 *Reva Bharara*
