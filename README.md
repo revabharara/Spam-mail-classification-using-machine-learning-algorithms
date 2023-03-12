@@ -92,6 +92,6 @@ The Gui application allows the user to enter the content of the mail in the entr
 ## Credits
 *Reva Bharara*
 
-*Email : revabharara@gmail.com*
+*Email : revabharara@gmail.com, bhararareva@gmail.com*
 
 *Linkedin : https://www.linkedin.com/in/reva-bharara-a83a78241/*
