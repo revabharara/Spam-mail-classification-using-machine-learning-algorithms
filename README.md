@@ -17,7 +17,7 @@ The provided dataset is a collection of emails that have been randomly selected 
 
 ## Roadmap
 
-1. ### Data analysis
+1. ### Data analysis (Priliminary and Exploratory)
 The process typically involves multiple steps such as data exploration, data visualization, and statistical analysis to derive meaningful insights from the data.
 
 2. ### Data preprocessing
