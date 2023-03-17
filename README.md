@@ -26,7 +26,7 @@ It includes handling missing or incorrect data, transforming data into a more us
 3. ### 📊Model selection and prediction
 This involves evaluating different models and selecting the one that best fits the data and is capable of making accurate predictions. 
 
-4. ###⛳ Model comparison
+4. ### ⛳ Model comparison
 Model comparison involves comparing the performance of different models on a given task to identify which model is most effective.
 
 5. ### 🏆Model implemetation and analysis
